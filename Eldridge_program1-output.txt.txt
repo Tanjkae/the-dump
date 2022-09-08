@@ -1,0 +1,5 @@
+PS C:\Users\240798> & "C:/Program Files/Python310/python.exe" c:/Users/240798/Eldridge_program1.py
+hello, world
+Logan Eldridge
+CIS 110 Program 1
+Tue Sep  6 13:08:59 2022
